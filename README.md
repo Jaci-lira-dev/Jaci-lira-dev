@@ -20,6 +20,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
+
+
 ---
 
 ### 🗄️ Bancos de Dados
@@ -29,13 +31,13 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FFA500?style=flat&logo=python&logoColor=white)
 
 ---
-
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=trello&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-4DB33F?style=flat&logo=selenium&logoColor=white)
-
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ---
 
 ### ⚙️ Habilidades e Conhecimentos
