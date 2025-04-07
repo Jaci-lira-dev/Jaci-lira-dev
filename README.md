@@ -40,22 +40,14 @@
 
 ### ⚙️ Habilidades e Conhecimentos
 
-- **Fundamentos de Banco de Dados:** Modelagem Conceitual, Modelo Entidade Relacionamento, Modelo Relacional, Normalização, Gerenciadores de Banco de Dados
-- **Linguagem de Programação:** Lógica de Programação, Estruturas de Dados, Desenvolvimento de algoritmos, Refactoring, Padrões MVC
-- **Matemática Aplicada:** Teoria de Conjuntos, Relações e Funções, Lógica Proposicional, Estatística Descritiva, Lógica de Predicados
-- **Soft Skills:** Pensamento crítico, Flexibilização, Inteligência emocional, Trabalho em grupos interdisciplinares, Sucesso em processos seletivos
-- **Ambientes Operacionais:** Visão geral dos conceitos de nuvem, Arquitetura Cliente-Servidor, Desenvolvimento de aplicações Web, Segurança na nuvem e da nuvem
-- **Engenharia de Software:** Engenharia de Requisitos, Análise de Problemas, Linguagem SQL, Programação Orientada a Objetos, Testes de Software
-- **DevOps:** Gerenciamento de Configuração e de Mudanças, Integração Contínua/Entrega Contínua (CI/CD), Práticas de configuração e uso de serviços na nuvem GitHub
-- **Automação:** Automação Robótica de Processos (RPA), Testes de Software (TDD, BDD), Criação de robôs para Web e Banco de dados
-- **Microsserviços:** Sistemas Distribuídos, Programação Python com Flask, APIs e Web Services
-- **Desenvolvimento Mobile:** Desenvolvimento de Aplicativos Móveis (Android), Linguagem Kotlin, Componentes Visuais de Aplicativo Mobile
-- **Análise e Modelagem de Sistemas:** UML, Storyboards de Casos de Uso, Modelagem de Processos de Negócio
-- **Frameworks Full Stack:** Desenvolvimento Full Stack, APIs REST, Front-End (React), Back-End (Flask, Spring Boot)
-- **Qualidade de Software:** Garantia da Qualidade (QA), Testes de Aceitação, Modelos de Maturidade de Software
-- **Business Agility:** Lean, Kanban, Design Thinking, MVP, Validação de Ideias
-- **Cibersegurança:** Segurança com Dispositivos e Serviços de Rede, Proteção e Respostas a Incidentes, Gestão de dispositivos seguros
-- **UX & Design Thinking:** Design Centrado no Usuário, Arquitetura da Informação, Wireframes
+Profissional atuando como Analista de Suporte Técnico na área de Sustentação de TI no BTG Pactual, através da ACT Digital, efetuando tratativas de chamados, investigando a causa raiz dos problemas e alertando as áreas internas de possíveis bugs, buscando correções e melhorias, garantindo resoluções e satisfação dos clientes internos e externos.
+
+
+Cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta, venho construindo uma base técnica e prática com foco em programação (Python, Flask, Java, Kotlin, React), desenvolvimento web e mobile, banco de dados relacionais (PostgreSQL, SQL, DBeaver) e integrações com APIs (REST, Salesforce, Postman, SoapUI). Também estudo DevOps, CI/CD, Git/GitHub e uso de nuvem, além de RPA, QA (Selenium, TDD, BDD, Behave), engenharia de software (UML, requisitos, modelagem, arquitetura) e desenvolvimento full stack com padrão MVC.
+
+
+A formação inclui ainda análise de dados, fundamentos de cibersegurança e desenvolvimento centrado no usuário com UX e Design Thinking. Paralelamente, desenvolvo soft skills como pensamento crítico, inteligência emocional e colaboração interdisciplinar, consolidando uma base consistente e atualizada para minha atuação estratégica e prática na área de tecnologia.
+
 
 ---
 
