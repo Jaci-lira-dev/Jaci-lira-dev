@@ -1,4 +1,4 @@
-## 👩‍💻 Jaci Lira | Desenvolvedora Back-End em formação
+## 👩‍💻 Jaci Lira | Desenvolvedora Back-End em Formação
 
 🧠 *"Inovação começa quando escolhemos aprender o que antes parecia impossível."*
 
